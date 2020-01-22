@@ -3,10 +3,8 @@
 
 
 ```python
-# Nota: Para la visualización del mapa, se necesita un paquete basado en mapas.
-# si no tienes instalado el paquete anterior en tu máquina, puedes utilizar la siguiente linea para instalarlo
+# Para la visualización del mapa, se necesita un paquete basado en mapas.
 # !conda install -c conda-forge  basemap==1.1.0  matplotlib==2.2.2  -y
-# Nota: podrías tener que actualizar tu página para volver a ejecutar el lab luego de la instalación
 ```
 
 
